@@ -53,22 +53,27 @@ _Para a live do JovemDev [Site Oficial](https://jovemdev.com.br)._
     
  4.  **Mude o Caminho da API!**
     Você deve mudar o caminho da api de acordo com seu ip, igual no json server!
-    Exemplo:
+   
     <p align="center">
       <img alt="Ifood" src="https://user-images.githubusercontent.com/58527704/99564915-c8ccaa00-29a9-11eb-9db3-e2c862336c31.PNG" width="300" />
     </p>
     
  5.  **Execute o Projeto com o expo!**
-
-    Você deve mudar o caminho da api de acordo com seu ip, igual no json server!
-     
-    Exemplo:
+    Agora precisamos executar o projeto! 
+    ```sh
+    Para executar o projeto / yarn: yarn start
+    Para executar o projeto / npm: npm run start
+    Para executar o projeto / expo: expo start
+    ```
+    OBS: as 3 formas dao certo! 
    
  6.  **Escaneie o código qr do expo e teste!**
-
-    Você deve mudar o caminho da api de acordo com seu ip, igual no json server!
-     
-    Exemplo:
+    Depois de ter executado o expo é só ecaniar o código qr ou executar no navegador! 
+    
+     <p align="center">
+      <img alt="Ifood" src="https://user-images.githubusercontent.com/58527704/99564915-c8ccaa00-29a9-11eb-9db3-e2c862336c31.PNG" width="300" />
+    </p>
+    
 ## 🧐 Estruturas de pastas
 
 A quick look at the top-level files and directories you'll see in a Gatsby project.
