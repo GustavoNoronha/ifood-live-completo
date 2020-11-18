@@ -103,4 +103,13 @@ Saiba a estruturação deste projeto / src
   
 
 ## 💫 Links úteis
+| Recurso | Link |
+| ------ | ------ |
+| Yarn | https://yarnpkg.com/ |
+| NPM | https://www.npmjs.com/ |
+| Site | https://www.jovemdev.com.br/ |
+| Instagram | https://www.instagram.com/jovemdev.oficial/ |
+| Youtube | https://www.youtube.com/channel/UC_AHwgNm0YXYC2LDhjcreGg |
+| Instagram ( Pessoal ) | https://www.instagram.com/gustavoNoronha0/
+
 
