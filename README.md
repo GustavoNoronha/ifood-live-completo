@@ -54,9 +54,9 @@ _Para a live do JovemDev [Site Oficial](https://jovemdev.com.br)._
  4.  **Mude o Caminho da API!**
     Você deve mudar o caminho da api de acordo com seu ip, igual no json server!
     Exemplo:
-
-   <img alt="Ifood" src="https://user-images.githubusercontent.com/58527704/99564915-c8ccaa00-29a9-11eb-9db3-e2c862336c31.PNG" width="300" />
-   
+    <p align="center">
+      <img alt="Ifood" src="https://user-images.githubusercontent.com/58527704/99564915-c8ccaa00-29a9-11eb-9db3-e2c862336c31.PNG" width="300" />
+    </p>
     
  5.  **Execute o Projeto com o expo!**
 
