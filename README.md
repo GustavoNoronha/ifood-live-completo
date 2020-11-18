@@ -14,31 +14,42 @@ _Para a live do JovemDev [Site Oficial](https://jovemdev.com.br)._
 
 ## 🚀 Vamos lá?
 
-1.  **Create a Gatsby site.**
+1.  **Primeiro Passo: Faça clone do projeto.**
 
-    Use the Gatsby CLI to create a new site, specifying the default starter.
-
-    ```sh
-    # create a new Gatsby site using the default starter
-    gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
-    ```
-
-1.  **Start developing.**
-
-    Navigate into your new site’s directory and start it up.
+    Você pode baixar ou clonar meu projeto na seguinte url.
 
     ```sh
-    cd my-default-starter/
-    gatsby develop
+    # crie um novo repositório e baixe o projeto
+    ifood clone interface https://github.com/GustavoNoronha/ifood-live-completo
     ```
 
-1.  **Open the source code and start editing!**
+1.  **Execute os pacotes.**
 
-    Your site is now running at `http://localhost:8000`!
+    Você pode fazer isso utlizando o yarn ou npm.
 
-    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
+    ```sh
+    npm install ou
+    yarn install
+    ```
 
-    Open the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+1.  **Execute o json-server!**
+
+    Você deve executar entao o Json Server para acesso as imagens e demais!
+
+    _
+    ```sh
+    Para instalar o Json Server / yarn : yarn add json-server ou
+    Para instalar o Json Server / npm : npm install json-server
+    ```
+    Agora precisamos executar o json server para termos acesso a nossa "api" posteriormente!
+    ```sh
+    Para executar o Json Server: npx json-server --H 192.168.0.12 -p 3333 server.json
+    ```
+    Repare que o ip local 192.168.0.12 é o meu, você deve substituir pelo seu, para saber seu ip deve ir no cmd e digitar o comando abaixo:
+     ```sh
+    ipconfig
+    ```
+    OBS: Escolha a opção: Endereço IPv4.
 
 ## 🧐 Estruturas de pastas
 
