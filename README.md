@@ -20,7 +20,7 @@ _Para a live do JovemDev [Site Oficial](https://jovemdev.com.br)._
 
     ```sh
     # crie um novo repositório e baixe o projeto
-    ifood clone interface https://github.com/GustavoNoronha/ifood-live-completo
+    https://github.com/GustavoNoronha/ifood-live-completo
     ```
 
 2.  **Execute os pacotes.**
