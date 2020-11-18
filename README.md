@@ -55,7 +55,7 @@ _Para a live do JovemDev [Site Oficial](https://jovemdev.com.br)._
     Você deve mudar o caminho da api de acordo com seu ip, igual no json server!
    
     <p align="center">
-      <img alt="Ifood" src="https://user-images.githubusercontent.com/58527704/99564915-c8ccaa00-29a9-11eb-9db3-e2c862336c31.PNG" width="300" />
+      <img alt="api" src="https://user-images.githubusercontent.com/58527704/99564915-c8ccaa00-29a9-11eb-9db3-e2c862336c31.PNG" width="300" />
     </p>
     
  5.  **Execute o Projeto com o expo!**
@@ -65,13 +65,14 @@ _Para a live do JovemDev [Site Oficial](https://jovemdev.com.br)._
     Para executar o projeto / npm: npm run start
     Para executar o projeto / expo: expo start
     ```
-    OBS: as 3 formas dao certo! 
-   
- 6.  **Escaneie o código qr do expo e teste!**
-    Depois de ter executado o expo é só ecaniar o código qr ou executar no navegador! 
+    OBS: as 3 formas dao certo!
     
+    
+5.  **Execute o Projeto com o expo!**
+
+    Depois de ter executado o expo é só escaniar o código qr ou executar no navegador! 
      <p align="center">
-      <img alt="Ifood" src="https://user-images.githubusercontent.com/58527704/99564915-c8ccaa00-29a9-11eb-9db3-e2c862336c31.PNG" width="300" />
+      <img alt="expo" src="https://user-images.githubusercontent.com/58527704/99565948-0c73e380-29ab-11eb-955b-533a8b4a35fe.PNG" width="300" />
     </p>
     
 ## 🧐 Estruturas de pastas
