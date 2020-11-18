@@ -61,13 +61,13 @@ _Para a live do JovemDev [Site Oficial](https://jovemdev.com.br)._
  5.  **Execute o Projeto com o expo!**
     Agora precisamos executar o projeto!
     
-    ```sh
+ 
     expo start
-    ```
+
    
     
     
-5.  **Execute o Projeto com o expo!**
+5.  **Teste o Projeto com o expo!**
 
     Depois de ter executado o expo é só escaniar o código qr ou executar no navegador! 
      <p align="center">
