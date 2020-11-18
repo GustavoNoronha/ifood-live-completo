@@ -76,10 +76,9 @@ _Para a live do JovemDev [Site Oficial](https://jovemdev.com.br)._
     
 ## 🧐 Estruturas de pastas
 
-Saiba a estruturação deste projeto
+Saiba a estruturação deste projeto / src
 
-    .
-    
+     
     ├── src
       ├── assets
       ├── componentes
