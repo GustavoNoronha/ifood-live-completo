@@ -49,10 +49,7 @@ function Offers({ navigation }) {
     loadOffers();
   }, []);
 
-  function handleNavigate(item) {
-    navigation.navigate('Item', { item });
-  }
-
+  
   return (
     <Container>
       <Header>
@@ -64,13 +61,13 @@ function Offers({ navigation }) {
 
       <OfferList horizontal>
         {offers.map(offer => (
-          <Item key={offer.id} onPress={() => handleNavigate(offer)}>
+          <Item key={offer.id}>
             <ItemImage source={{ uri: offer.offer_url }} />
             <ItemInfo>
               <ItemTitle>{offer.title}</ItemTitle>
               <ItemPrice>
-                <Price>{offer.newPrice}</Price>
-                <OldPrice>{offer.price}</OldPrice>
+                <Price>R{offer.newPrice}</Price>
+                <OldPrice>R{offer.price}</OldPrice>
                 <MaterialIcons name="local-offer" size={15} color="#000" />
               </ItemPrice>
             </ItemInfo>

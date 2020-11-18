@@ -17,14 +17,10 @@ function Promotions({ navigation }) {
     loadPromotions();
   }, []);
 
-  function handleNavigate(promo) {
-    navigation.navigate('Trending', { promo });
-  }
-
   return (
     <PromoList horizontal>
       {promotions.map(promo => (
-        <Item key={promo.id} onPress={() => handleNavigate(promo)}>
+        <Item key={promo.id}>
           <PromoImage source={{ uri: promo.promo_url }} />
         </Item>
       ))}

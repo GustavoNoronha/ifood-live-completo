@@ -13,7 +13,6 @@ import {
   Title,
   Validity,
 } from './styles';
-import { red } from '../../utils/colors';
 
 function Coupon({ navigation }) {
   return (
@@ -26,7 +25,7 @@ function Coupon({ navigation }) {
             <Validity>Válido até as 00:00</Validity>
           </CouponInfo>
         </Content>
-        <MaterialIcons name="keyboard-arrow-right" color={red} size={20} />
+        <MaterialIcons name="keyboard-arrow-right" color='#ff6666' size={20} />
       </Divisor>
     </CouponButton>
   );

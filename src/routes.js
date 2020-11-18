@@ -1,7 +1,6 @@
 import React from 'react';
 import { createAppContainer } from 'react-navigation';
-import {
-  createBottomTabNavigator,} from 'react-navigation-tabs';
+import {createBottomTabNavigator} from 'react-navigation-tabs';
 import { createStackNavigator } from 'react-navigation-stack';
 
 import { MaterialIcons } from '@expo/vector-icons';

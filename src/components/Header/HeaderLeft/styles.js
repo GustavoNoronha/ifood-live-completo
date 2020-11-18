@@ -1,6 +1,5 @@
 import styled from 'styled-components/native';
 
-import { red } from '../../../utils/colors';
 
 export const Container = styled.View`
   margin-left: 10px;
@@ -12,6 +11,6 @@ export const Button = styled.TouchableOpacity`
 `;
 
 export const Title = styled.Text`
-  color: ${props => props.disabled ? '#999999' : `${red}`};
+  color: ${props => props.disabled ? '#999999' : '#ff6666'};
   font-size: 17px;
 `;
