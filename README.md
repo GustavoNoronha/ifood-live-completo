@@ -62,11 +62,9 @@ _Para a live do JovemDev [Site Oficial](https://jovemdev.com.br)._
  5.  **Execute o Projeto com o expo!**
     Agora precisamos executar o projeto!
     ```sh
-    Para executar o projeto / yarn: yarn start
-    Para executar o projeto / npm: npm run start
-    Para executar o projeto / expo: expo start
+    expo start
     ```
-    OBS: as 3 formas dao certo!
+   
     
     
 5.  **Execute o Projeto com o expo!**
